@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Basic Calculator</string>
+    <string name="x">x</string>
+    <string name="minus_sign">-</string>
+    <string name="divide">/</string>
+    <string name="plus_sign">+</string>
+    <string name="equals">=</string>
+    <string name="enter_first_number">Enter first Number</string>
+    <string name="decimal">.</string>
+    <string name="enter_second_number">Enter second Number</string>
+    <string name="ac">AC</string>
+</resources>
